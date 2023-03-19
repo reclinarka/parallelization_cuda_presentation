@@ -15,3 +15,10 @@ after that you may start jupyter notebook by using the command
 ```
 jupyter notebook
 ```
+
+----
+
+For using the Web Scraper to gather steam hardware survey, use the command: 
+```
+wayback-machine-scraper -a 'store.steampowered.com/hwsurvey$' store.steampowered.com/hwsurvey
+```
